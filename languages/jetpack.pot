@@ -1,0 +1,196 @@
+# Copyright (C) 2015 Widget Visibility without jetpack
+# This file is distributed under the same license as the Widget Visibility without jetpack package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Widget Visibility without jetpack\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-07 01:16+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Toni Ginard <toni.ginard@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: widget-visibility/widget-conditions.php:34
+msgid "All category pages"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:44
+msgid "Logged In"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:45
+msgid "Logged Out"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:48
+msgid "All author pages"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:71
+msgid "All tag pages"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:81
+msgid "All date archives"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:82
+msgid "Daily archives"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:83
+msgid "Monthly archives"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:84
+msgid "Yearly archives"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:87
+msgid "Front page"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:88
+msgid "Posts page"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:89
+msgid "Archive page"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:90
+msgid "404 error page"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:91
+msgid "Search results"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:103
+msgid "Post type:"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:105
+msgid "Post type Archives:"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:117
+msgid "Static page:"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:120
+msgid "All taxonomy pages"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:144
+msgid "All pages"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:218
+msgid "Visibility"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:221
+#, php-format
+msgctxt ""
+"placeholder: dropdown menu to select widget visibility; hide if or show if"
+msgid "%s if:"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:221
+msgctxt "Used in the \"%s if:\" translation for the widget visibility dropdown"
+msgid "Show"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:221
+msgctxt "Used in the \"%s if:\" translation for the widget visibility dropdown"
+msgid "Hide"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:233
+msgctxt "Used as the default option in a dropdown list"
+msgid "-- Select --"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:234
+msgid "Category"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:235
+msgctxt "Noun, as in: \"The author of this post is...\""
+msgid "Author"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:238
+msgctxt "Noun"
+msgid "User"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:239
+msgctxt "Noun, as in: \"The user role of that can access this widget is...\""
+msgid "Role"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:242
+msgctxt "Noun, as in: \"This post has one tag.\""
+msgid "Tag"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:243
+msgctxt "Noun, as in: \"This page is a date archive.\""
+msgid "Date"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:244
+msgctxt "Example: The user is looking at a page, not a post."
+msgid "Page"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:246
+msgctxt "Noun, as in: \"This post has one taxonomy.\""
+msgid "Taxonomy"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:250
+msgctxt ""
+"Widget Visibility: {Rule Major [Page]} is {Rule Minor [Search results]}"
+msgid "is"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:262
+msgctxt ""
+"Checkbox on Widget Visibility if children of the selected page should be "
+"included in the visibility rule."
+msgid "Include children"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:269
+msgctxt "Shown between widget visibility conditions."
+msgid "or"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:272
+msgctxt "Shown between widget visibility conditions."
+msgid "and"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:275
+msgid "Delete"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:275
+msgid "Add"
+msgstr ""
+
+#: widget-visibility/widget-conditions.php:294
+msgid "Match all conditions"
+msgstr ""
